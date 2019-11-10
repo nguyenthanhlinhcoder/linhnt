@@ -1,10 +1,10 @@
 {
-    "name": "tienmx/crawlers",
+    "name": "linhnt/crawlers",
     "license": "MIT",
     "minimum-stability": "stable",
     "authors": [
         {
-            "name": "Mai Xuan Tien",
+            "name": "Nguyễn Thanh Linh",
             "email": "maixuantien241294@gmail.com"
         }
     ],
@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Tienmx\\Crawler\\": "src/"
+            "LinhNT\\Crawler\\": "src/"
         }
     }
 }
