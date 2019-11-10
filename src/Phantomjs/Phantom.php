@@ -6,7 +6,7 @@
  * Time: 3:54 PM
  */
 
-namespace Tienmx\Crawler\Phantomjs;
+namespace Linhnt\Crawler\Phantomjs;
 class Phantom
 {
     public $executable;

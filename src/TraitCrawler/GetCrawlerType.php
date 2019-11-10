@@ -6,7 +6,7 @@
  * Time: 7:00 PM
  */
 
-namespace Tienmx\Crawler\TraitCrawler;
+namespace Linhnt\Crawler\TraitCrawler;
 
 class GetCrawlerType
 {

@@ -1,5 +1,5 @@
 <?php
-namespace  Tienmx\Crawler\Casperjs;
+namespace  Linhnt\Crawler\Casperjs;
 class Casper
 {
     public $executable;

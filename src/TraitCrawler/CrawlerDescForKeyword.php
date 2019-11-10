@@ -6,7 +6,7 @@
  * Time: 11:18 AM
  */
 
-namespace Tienmx\Crawler\TraitCrawler;
+namespace Linhnt\Crawler\TraitCrawler;
 
 use Sunra\PhpSimple\HtmlDomParser;
 

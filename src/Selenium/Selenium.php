@@ -1,6 +1,6 @@
 <?php
 
-namespace Tienmx\Crawler\Selenium;
+namespace Linhnt\Crawler\Selenium;
 
 class Selenium
 {

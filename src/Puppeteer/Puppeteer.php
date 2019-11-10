@@ -6,7 +6,7 @@
  * Time: 3:23 PM
  */
 
-namespace Tienmx\Crawler\Puppeteer;
+namespace Linhnt\Crawler\Puppeteer;
 
 use Its404\PhpPuppeteer\Browser;
 

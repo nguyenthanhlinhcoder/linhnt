@@ -6,14 +6,14 @@
  * Time: 10:56 PM
  */
 
-namespace Tienmx\Crawler\TraitCrawler;
+namespace Linhnt\Crawler\TraitCrawler;
 
 
-use Tienmx\Crawler\Casperjs\Casper;
-use Tienmx\Crawler\Nightmare\Nightmare;
-use Tienmx\Crawler\Phantomjs\Phantom;
-use Tienmx\Crawler\Puppeteer\Puppeteer;
-use Tienmx\Crawler\Selenium\Selenium;
+use Linhnt\Crawler\Casperjs\Casper;
+use Linhnt\Crawler\Nightmare\Nightmare;
+use Linhnt\Crawler\Phantomjs\Phantom;
+use Linhnt\Crawler\Puppeteer\Puppeteer;
+use Linhnt\Crawler\Selenium\Selenium;
 
 trait CrawlerTypeTrait
 {

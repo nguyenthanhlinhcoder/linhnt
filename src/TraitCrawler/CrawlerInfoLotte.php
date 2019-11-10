@@ -6,7 +6,7 @@
  * Time: 5:09 PM
  */
 
-namespace Tienmx\Crawler\TraitCrawler;
+namespace Linhnt\Crawler\TraitCrawler;
 
 
 class CrawlerInfoLotte

@@ -6,7 +6,7 @@
  * Time: 9:39 AM
  */
 
-namespace Tienmx\Crawler\TraitCrawler;
+namespace Linhnt\Crawler\TraitCrawler;
 
 
 class CrawlerLogo

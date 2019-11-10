@@ -1,6 +1,6 @@
 <?php
 
-namespace Tienmx\Crawler\Nightmare;
+namespace Linhnt\Crawler\Nightmare;
 
 class Nightmare
 {

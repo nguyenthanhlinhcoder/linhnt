@@ -6,7 +6,7 @@
  * Time: 6:26 PM
  */
 
-namespace Tienmx\Crawler;
+namespace Linhnt\Crawler;
 
 use Illuminate\Support\ServiceProvider as BaseServiceProvider;
 

@@ -6,10 +6,10 @@
  * Time: 4:55 PM
  */
 
-namespace Tienmx\Crawler;
+namespace Linhnt\Crawler;
 
-use Tienmx\Crawler\TraitCrawler\BaseTrait;
-use Tienmx\Crawler\TraitCrawler\GetCrawlerType;
+use Linhnt\Crawler\TraitCrawler\BaseTrait;
+use Linhnt\Crawler\TraitCrawler\GetCrawlerType;
 
 class Test
 {

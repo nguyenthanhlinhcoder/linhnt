@@ -6,7 +6,7 @@
  * Time: 6:56 PM
  */
 
-namespace Tienmx\Crawler\TraitCrawler;
+namespace Linhnt\Crawler\TraitCrawler;
 
 
 trait BaseTrait
